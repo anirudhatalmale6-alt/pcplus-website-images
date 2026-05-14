@@ -1,0 +1,1732 @@
+PC PLUS COMPUTING - COMPLETE IMAGE MAP BY PAGE
+======================================================================
+Generated: 2026-05-14
+Total unique images: 161 (zero duplicates)
+  - 9 shared service box images (reused on 95 pages)
+  - 152 page-specific images
+======================================================================
+
+
+SHARED SERVICE BOX IMAGES (used on 95 pages)
+--------------------------------------------------
+  Business IT Support  ->  output/business-it-support.png
+  Data Protection Check  ->  output/data-protection-check.png
+  Hardware Diagnostics  ->  output/hardware-diagnostics.png
+  Helpful  ->  output/helpful.png
+  Performance Optimization  ->  output/performance-optimization.png
+  Prevention Plan  ->  output/prevention-plan.png
+  Professional Diagnostics  ->  output/professional-diagnostics.png
+  Remote Support  ->  output/remote-support.png
+  Security Review  ->  output/security-review.png
+
+
+PAGE-BY-PAGE BREAKDOWN
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+PAGE: about
+URL:  https://fresh.pcpluscomputing.com/about/
+Total images: 6
+  Page-specific (6):
+    🛠 Fix Problems Fast  ->  output/fix-problems-fast.png
+    🖥 Computer Repair  ->  output/computer-repair.png
+    💾 Data Recovery  ->  output/data-recovery.png
+    🏢 Managed IT  ->  output/managed-it.png
+    ☁ Backup & Recovery  ->  output/backup-and-recovery.png
+    🌐 Network Support  ->  output/network-support.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: contact-us
+URL:  https://fresh.pcpluscomputing.com/contact-us/
+Total images: 5
+  Page-specific (5):
+    🖥 Computer Repair  ->  output/computer-repair.png
+    💾 Data Recovery  ->  output/data-recovery.png
+    🏢 Managed IT  ->  output/managed-it.png
+    🛡 Cybersecurity  ->  output/cybersecurity.png
+    🌐 Network Support  ->  output/network-support.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: deleted-file-recovery
+URL:  https://fresh.pcpluscomputing.com/deleted-file-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: homepage
+URL:  https://fresh.pcpluscomputing.com/
+Total images: 29
+  Page-specific (29):
+    For Home Customers  ->  output/for-home-customers.png
+    For Businesses  ->  output/for-businesses.png
+    Computer Repair  ->  output/computer-repair.png
+    Laptop Repair  ->  output/laptop-repair.png
+    MacBook Repair  ->  output/macbook-repair.png
+    Business IT Services  ->  output/business-it-services.png
+    Phone & Tablet Repair  ->  output/phone-and-tablet-repair.png
+    Computer Networking  ->  output/computer-networking.png
+    Data Recovery  ->  output/data-recovery.png
+    Website Design  ->  output/website-design.png
+    SEO Services  ->  output/seo-services.png
+    Traditional Break-Fix IT  ->  output/traditional-break-fix-it.png
+    PC Plus Proactive IT  ->  output/pc-plus-proactive-it.png
+    Realtors  ->  output/realtors.png
+    Accountants  ->  output/accountants.png
+    Law Offices  ->  output/law-offices.png
+    Immigration Consultants  ->  output/immigration-consultants.png
+    Medical Clinics  ->  output/medical-clinics.png
+    Retail Stores  ->  output/retail-stores.png
+    Restaurants  ->  output/restaurants.png
+    Small Offices  ->  output/small-offices.png
+    Surrey  ->  output/surrey.png
+    White Rock  ->  output/white-rock.png
+    Langley  ->  output/langley.png
+    Burnaby  ->  output/burnaby.png
+    Vancouver  ->  output/vancouver.png
+    Richmond  ->  output/richmond.png
+    Coquitlam  ->  output/coquitlam.png
+    Delta  ->  output/delta.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/backup-disaster-recovery
+URL:  https://fresh.pcpluscomputing.com/services/backup-disaster-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/
+Total images: 9
+  Page-specific (9):
+    Managed IT Support  ->  output/managed-it-support.png
+    Network Security  ->  output/network-security.png
+    Backup & Disaster Recovery  ->  output/backup-and-disaster-recovery.png
+    Cybersecurity Protection  ->  output/cybersecurity-protection.png
+    Remote IT Support  ->  output/remote-it-support.png
+    Server & Workstation Support  ->  output/server-and-workstation-support.png
+    Microsoft 365 & Email Help  ->  output/microsoft-365-and-email-help.png
+    IT Consulting & Planning  ->  output/it-consulting-and-planning.png
+    Secure  ->  output/secure.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/business-continuity
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/business-continuity/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/email-setup
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/email-setup/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/helpdesk-support
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/helpdesk-support/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/it-consulting
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/it-consulting/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/it-maintenance
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/it-maintenance/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/it-outsourcing
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/it-outsourcing/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/microsoft-365-support
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/microsoft-365-support/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/network-management
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/network-management/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/office-it-setup
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/office-it-setup/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/remote-work-setup
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/remote-work-setup/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/server-management
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/server-management/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/business-it-services/small-business-it-support
+URL:  https://fresh.pcpluscomputing.com/services/business-it-services/small-business-it-support/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/cloud-migration
+URL:  https://fresh.pcpluscomputing.com/services/cloud-migration/
+Total images: 10
+  Page-specific (1):
+    Why Choose PC Plus Computing for Cloud Migration  ->  output/why-choose-pc-plus-computing-for-cloud-migration.png
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-networking
+URL:  https://fresh.pcpluscomputing.com/services/computer-networking/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-networking/business-network-installation
+URL:  https://fresh.pcpluscomputing.com/services/computer-networking/business-network-installation/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-networking/network-security
+URL:  https://fresh.pcpluscomputing.com/services/computer-networking/network-security/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-networking/network-troubleshooting
+URL:  https://fresh.pcpluscomputing.com/services/computer-networking/network-troubleshooting/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-networking/network-upgrade
+URL:  https://fresh.pcpluscomputing.com/services/computer-networking/network-upgrade/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-networking/router-setup
+URL:  https://fresh.pcpluscomputing.com/services/computer-networking/router-setup/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-networking/vpn-setup
+URL:  https://fresh.pcpluscomputing.com/services/computer-networking/vpn-setup/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-networking/wifi-setup
+URL:  https://fresh.pcpluscomputing.com/services/computer-networking/wifi-setup/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/
+Total images: 12
+  Page-specific (12):
+    Laptop Repair  ->  output/laptop-repair.png
+    Desktop Computer Repair  ->  output/desktop-computer-repair.png
+    Virus & Malware Removal  ->  output/virus-and-malware-removal.png
+    Data Recovery  ->  output/data-recovery.png
+    Computer Tune-Up  ->  output/computer-tune-up.png
+    Hardware Upgrades  ->  output/hardware-upgrades.png
+    Network & Wi-Fi Support  ->  output/network-and-wi-fi-support.png
+    Business Computer Support  ->  output/business-computer-support.png
+    Local Surrey Service  ->  output/local-surrey-service.png
+    Clear Diagnostics  ->  output/clear-diagnostics.png
+    Security Focused  ->  output/security-focused.png
+    Home & Business Support  ->  output/home-and-business-support.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/boot-error-repair
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/boot-error-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/computer-diagnostics
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/computer-diagnostics/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/custom-pc-build
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/custom-pc-build/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/desktop-repair
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/desktop-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/gaming-computer-repair
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/gaming-computer-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/hardware-repair
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/hardware-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/linux-repair
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/linux-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/motherboard-repair
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/motherboard-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/overheating-fix
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/overheating-fix/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/password-recovery
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/password-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/pc-upgrade
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/pc-upgrade/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/power-supply-repair
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/power-supply-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/server-repair
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/server-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/slow-computer-fix
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/slow-computer-fix/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/software-repair
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/software-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/system-optimization
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/system-optimization/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/computer-repair/windows-repair
+URL:  https://fresh.pcpluscomputing.com/services/computer-repair/windows-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/cyber-security-services
+URL:  https://fresh.pcpluscomputing.com/services/cyber-security-services/
+Total images: 8
+  Page-specific (8):
+    Endpoint Protection  ->  output/endpoint-protection.png
+    Ransomware Protection  ->  output/ransomware-protection.png
+    Firewall & VPN Security  ->  output/firewall-and-vpn-security.png
+    Secure Backup Planning  ->  output/secure-backup-planning.png
+    Password & Account Security  ->  output/password-and-account-security.png
+    Security Monitoring  ->  output/security-monitoring.png
+    Security Audit  ->  output/security-audit.png
+    Incident Cleanup  ->  output/incident-cleanup.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/cybersecurity-services/external-drive-recovery
+URL:  https://fresh.pcpluscomputing.com/services/cybersecurity-services/external-drive-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/cybersecurity-services/incident-response
+URL:  https://fresh.pcpluscomputing.com/services/cybersecurity-services/incident-response/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/cybersecurity-services/security-audit
+URL:  https://fresh.pcpluscomputing.com/services/cybersecurity-services/security-audit/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/cybersecurity-services/vulnerability-assessment
+URL:  https://fresh.pcpluscomputing.com/services/cybersecurity-services/vulnerability-assessment/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/data-recovery
+URL:  https://fresh.pcpluscomputing.com/services/data-recovery/
+Total images: 9
+  Page-specific (9):
+    Hard Drive Data Recovery  ->  output/hard-drive-data-recovery.png
+    SSD Data Recovery  ->  output/ssd-data-recovery.png
+    Laptop Data Recovery  ->  output/laptop-data-recovery.png
+    Deleted File Recovery  ->  output/deleted-file-recovery.png
+    External Drive & USB Recovery  ->  output/external-drive-and-usb-recovery.png
+    Crashed Windows Recovery  ->  output/crashed-windows-recovery.png
+    Business Data Recovery  ->  output/business-data-recovery.png
+    Backup & Data Protection  ->  output/backup-and-data-protection.png
+    Home & Business  ->  output/home-and-business.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/data-recovery/emergency-data-recovery
+URL:  https://fresh.pcpluscomputing.com/services/data-recovery/emergency-data-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/data-recovery/formatted-drive-recovery
+URL:  https://fresh.pcpluscomputing.com/services/data-recovery/formatted-drive-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/data-recovery/hard-drive-data-recoveryy
+URL:  https://fresh.pcpluscomputing.com/services/data-recovery/hard-drive-data-recoveryy/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/data-recovery/nas-data-recovery
+URL:  https://fresh.pcpluscomputing.com/services/data-recovery/nas-data-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/data-recovery/phone-data-recovery
+URL:  https://fresh.pcpluscomputing.com/services/data-recovery/phone-data-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/data-recovery/raid-data-recovery
+URL:  https://fresh.pcpluscomputing.com/services/data-recovery/raid-data-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/data-recovery/server-data-recovery
+URL:  https://fresh.pcpluscomputing.com/services/data-recovery/server-data-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/data-recovery/ssd-data-recovery
+URL:  https://fresh.pcpluscomputing.com/services/data-recovery/ssd-data-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/data-recovery/usb-data-recovery
+URL:  https://fresh.pcpluscomputing.com/services/data-recovery/usb-data-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/data-recovery/water-damaged-drive
+URL:  https://fresh.pcpluscomputing.com/services/data-recovery/water-damaged-drive/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/imac-repair
+URL:  https://fresh.pcpluscomputing.com/services/imac-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/imac-repair/imac-hard-drive-replacement
+URL:  https://fresh.pcpluscomputing.com/services/imac-repair/imac-hard-drive-replacement/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/imac-repair/imac-screen-repair
+URL:  https://fresh.pcpluscomputing.com/services/imac-repair/imac-screen-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/it-support
+URL:  https://fresh.pcpluscomputing.com/services/it-support/
+Total images: 9
+  Page-specific (9):
+    Computer IT Support  ->  output/computer-it-support.png
+    Remote Helpdesk Support  ->  output/remote-helpdesk-support.png
+    Email Support  ->  output/email-support.png
+    Printer Support  ->  output/printer-support.png
+    Network Troubleshooting  ->  output/network-troubleshooting.png
+    Software Support  ->  output/software-support.png
+    Cybersecurity Support  ->  output/cybersecurity-support.png
+    Backup Support  ->  output/backup-support.png
+    Proactive  ->  output/proactive.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/
+Total images: 11
+  Page-specific (11):
+    Laptop Screen Repair  ->  output/laptop-screen-repair.png
+    Battery Replacement  ->  output/battery-replacement.png
+    Charging Port Repair  ->  output/charging-port-repair.png
+    Slow Laptop Tune-Up  ->  output/slow-laptop-tune-up.png
+    Virus & Malware Removal  ->  output/virus-and-malware-removal.png
+    Laptop Data Recovery  ->  output/laptop-data-recovery.png
+    SSD & RAM Upgrades  ->  output/ssd-and-ram-upgrades.png
+    Overheating Repair  ->  output/overheating-repair.png
+    Clear Diagnostics  ->  output/clear-diagnostics.png
+    Security Focused  ->  output/security-focused.png
+    Local Support  ->  output/local-support.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/gaming-laptop-repair
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/gaming-laptop-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/gaming-laptop-upgrade
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/gaming-laptop-upgrade/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-battery-replacement
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-battery-replacement/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-boot-issue
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-boot-issue/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-charging-port-repair
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-charging-port-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-diagnostics
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-diagnostics/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-fan-repair
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-fan-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-hard-drive-replacement
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-hard-drive-replacement/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-hinge-repair
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-hinge-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-keyboard-repair
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-keyboard-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-motherboard-repair
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-motherboard-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-overheating-fix
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-overheating-fix/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-screen-repair
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-screen-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-slow-performance
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-slow-performance/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-software-repair
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-software-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-ssd-upgrade
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-ssd-upgrade/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/laptop-repair/laptop-water-damage-repair
+URL:  https://fresh.pcpluscomputing.com/services/laptop-repair/laptop-water-damage-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/mac-mini-repair
+URL:  https://fresh.pcpluscomputing.com/services/mac-mini-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/mac-mini-repair/mac-mini-diagnostics
+URL:  https://fresh.pcpluscomputing.com/services/mac-mini-repair/mac-mini-diagnostics/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/mac-mini-repair/mac-mini-upgrade
+URL:  https://fresh.pcpluscomputing.com/services/mac-mini-repair/mac-mini-upgrade/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/macbook-repair
+URL:  https://fresh.pcpluscomputing.com/services/macbook-repair/
+Total images: 11
+  Page-specific (11):
+    MacBook Air Repair  ->  output/macbook-air-repair.png
+    MacBook Pro Repair  ->  output/macbook-pro-repair.png
+    MacBook Battery Replacement  ->  output/macbook-battery-replacement.png
+    MacBook Screen Repair  ->  output/macbook-screen-repair.png
+    Liquid Damage Inspection  ->  output/liquid-damage-inspection.png
+    macOS Troubleshooting  ->  output/macos-troubleshooting.png
+    MacBook Data Recovery  ->  output/macbook-data-recovery.png
+    Mac Virus Removal  ->  output/mac-virus-removal.png
+    Experienced Technicians  ->  output/experienced-technicians.png
+    Data-Focused Repair  ->  output/data-focused-repair.png
+    Local Service Coverage  ->  output/local-service-coverage.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/macbook-repair/macbook-battery-replacement
+URL:  https://fresh.pcpluscomputing.com/services/macbook-repair/macbook-battery-replacement/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/macbook-repair/macbook-data-recovery
+URL:  https://fresh.pcpluscomputing.com/services/macbook-repair/macbook-data-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/macbook-repair/macbook-diagnostics
+URL:  https://fresh.pcpluscomputing.com/services/macbook-repair/macbook-diagnostics/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/macbook-repair/macbook-keyboard-repair
+URL:  https://fresh.pcpluscomputing.com/services/macbook-repair/macbook-keyboard-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/macbook-repair/macbook-os-repair
+URL:  https://fresh.pcpluscomputing.com/services/macbook-repair/macbook-os-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/macbook-repair/macbook-overheating
+URL:  https://fresh.pcpluscomputing.com/services/macbook-repair/macbook-overheating/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/macbook-repair/macbook-pro-repair
+URL:  https://fresh.pcpluscomputing.com/services/macbook-repair/macbook-pro-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/macbook-repair/macbook-screen-repair
+URL:  https://fresh.pcpluscomputing.com/services/macbook-repair/macbook-screen-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/macbook-repair/macbook-slow-performance
+URL:  https://fresh.pcpluscomputing.com/services/macbook-repair/macbook-slow-performance/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/macbook-repair/macbook-ssd-upgrade
+URL:  https://fresh.pcpluscomputing.com/services/macbook-repair/macbook-ssd-upgrade/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/managed-it-services
+URL:  https://fresh.pcpluscomputing.com/services/managed-it-services/
+Total images: 9
+  Page-specific (9):
+    Proactive Monitoring  ->  output/proactive-monitoring.png
+    Patch Management  ->  output/patch-management.png
+    Remote IT Support  ->  output/remote-it-support.png
+    Cybersecurity Support  ->  output/cybersecurity-support.png
+    Backup Monitoring  ->  output/backup-monitoring.png
+    Network Support  ->  output/network-support.png
+    Endpoint Support  ->  output/endpoint-support.png
+    IT Planning  ->  output/it-planning.png
+    Secure  ->  output/secure.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/network-setup
+URL:  https://fresh.pcpluscomputing.com/services/network-setup/
+Total images: 9
+  Page-specific (9):
+    Wi-Fi Setup  ->  output/wi-fi-setup.png
+    Router Configuration  ->  output/router-configuration.png
+    Firewall Support  ->  output/firewall-support.png
+    Network Troubleshooting  ->  output/network-troubleshooting.png
+    Business Networking  ->  output/business-networking.png
+    VPN Setup  ->  output/vpn-setup.png
+    Network Security Review  ->  output/network-security-review.png
+    Printer and Device Sharing  ->  output/printer-and-device-sharing.png
+    Secure  ->  output/secure.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/on-site-computer-support
+URL:  https://fresh.pcpluscomputing.com/services/on-site-computer-support/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/onsite-computer-support
+URL:  https://fresh.pcpluscomputing.com/services/onsite-computer-support/
+Total images: 1
+  Page-specific (1):
+    Why Choose PC Plus Computing for Onsite Computer Support  ->  output/why-choose-pc-plus-computing-for-onsite-computer-support.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/phone-tablet-repair
+URL:  https://fresh.pcpluscomputing.com/services/phone-tablet-repair/
+Total images: 9
+  Page-specific (9):
+    Screen Issue Support  ->  output/screen-issue-support.png
+    Charging Problems  ->  output/charging-problems.png
+    Battery Concerns  ->  output/battery-concerns.png
+    Software Troubleshooting  ->  output/software-troubleshooting.png
+    Data Transfer  ->  output/data-transfer.png
+    Device Setup  ->  output/device-setup.png
+    Wi-Fi and Internet Issues  ->  output/wi-fi-and-internet-issues.png
+    Business Mobile Support  ->  output/business-mobile-support.png
+    Proactive  ->  output/proactive.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/phone-tablet-repair/android-repair
+URL:  https://fresh.pcpluscomputing.com/services/phone-tablet-repair/android-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/phone-tablet-repair/charging-port-repair
+URL:  https://fresh.pcpluscomputing.com/services/phone-tablet-repair/charging-port-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/phone-tablet-repair/iphone-repair
+URL:  https://fresh.pcpluscomputing.com/services/phone-tablet-repair/iphone-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/phone-tablet-repair/phone-battery-replacement
+URL:  https://fresh.pcpluscomputing.com/services/phone-tablet-repair/phone-battery-replacement/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/phone-tablet-repair/phone-data-recovery
+URL:  https://fresh.pcpluscomputing.com/services/phone-tablet-repair/phone-data-recovery/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/phone-tablet-repair/phone-water-damage
+URL:  https://fresh.pcpluscomputing.com/services/phone-tablet-repair/phone-water-damage/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/phone-tablet-repair/tablet-screen-repair
+URL:  https://fresh.pcpluscomputing.com/services/phone-tablet-repair/tablet-screen-repair/
+Total images: 9
+  Shared boxes (9):
+    Professional Diagnostics  ->  output/professional-diagnostics.png
+    Data Protection Check  ->  output/data-protection-check.png
+    Security Review  ->  output/security-review.png
+    Performance Optimization  ->  output/performance-optimization.png
+    Remote Support  ->  output/remote-support.png
+    Hardware Diagnostics  ->  output/hardware-diagnostics.png
+    Business IT Support  ->  output/business-it-support.png
+    Prevention Plan  ->  output/prevention-plan.png
+    Helpful  ->  output/helpful.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/remote-support
+URL:  https://fresh.pcpluscomputing.com/services/remote-support/
+Total images: 9
+  Page-specific (9):
+    Remote Computer Help  ->  output/remote-computer-help.png
+    Email Support  ->  output/email-support.png
+    Printer Troubleshooting  ->  output/printer-troubleshooting.png
+    Software Support  ->  output/software-support.png
+    Windows Troubleshooting  ->  output/windows-troubleshooting.png
+    Security Help  ->  output/security-help.png
+    Business Remote Support  ->  output/business-remote-support.png
+    Home Office Support  ->  output/home-office-support.png
+    Proactive  ->  output/proactive.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/seo-services
+URL:  https://fresh.pcpluscomputing.com/services/seo-services/
+Total images: 9
+  Page-specific (9):
+    Local SEO  ->  output/local-seo.png
+    Keyword Research  ->  output/keyword-research.png
+    On-Page SEO  ->  output/on-page-seo.png
+    Service Page SEO  ->  output/service-page-seo.png
+    Technical SEO Review  ->  output/technical-seo-review.png
+    Content Optimization  ->  output/content-optimization.png
+    Google Business Profile Support  ->  output/google-business-profile-support.png
+    SEO Reporting & Planning  ->  output/seo-reporting-and-planning.png
+    Proactive  ->  output/proactive.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/virus-removal
+URL:  https://fresh.pcpluscomputing.com/services/virus-removal/
+Total images: 9
+  Page-specific (9):
+    Virus Removal  ->  output/virus-removal.png
+    Malware Cleanup  ->  output/malware-cleanup.png
+    Ransomware Help  ->  output/ransomware-help.png
+    Pop-Up & Browser Fix  ->  output/pop-up-and-browser-fix.png
+    Slow Computer After Infection  ->  output/slow-computer-after-infection.png
+    Security Checkup  ->  output/security-checkup.png
+    Data Protection Review  ->  output/data-protection-review.png
+    Business Malware Removal  ->  output/business-malware-removal.png
+    Secure  ->  output/secure.png
+
+──────────────────────────────────────────────────────────────────────
+PAGE: services/website-design
+URL:  https://fresh.pcpluscomputing.com/services/website-design/
+Total images: 9
+  Page-specific (9):
+    Business Website Design  ->  output/business-website-design.png
+    WordPress Website Design  ->  output/wordpress-website-design.png
+    SEO-Friendly Page Structure  ->  output/seo-friendly-page-structure.png
+    Mobile Responsive Design  ->  output/mobile-responsive-design.png
+    Service Page Design  ->  output/service-page-design.png
+    Local Business Websites  ->  output/local-business-websites.png
+    Website Redesign  ->  output/website-redesign.png
+    Website Maintenance  ->  output/website-maintenance.png
+    Secure  ->  output/secure.png

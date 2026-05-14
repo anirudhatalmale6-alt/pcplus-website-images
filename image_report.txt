@@ -1,0 +1,334 @@
+PC PLUS COMPUTING - IMAGE LIST BY PAGE
+============================================================
+Total unique images needed: 152
+Total pages: 19
+Zero duplicates - each image generated once and reused
+============================================================
+
+PAGE: about
+URL: https://fresh.pcpluscomputing.com/about/
+Images needed: 6
+  1. 🛠 Fix Problems Fast -> fix-problems-fast.png
+  2. 🖥 Computer Repair -> computer-repair.png (also used on 1 other pages)
+  3. 💾 Data Recovery -> data-recovery.png (also used on 1 other pages)
+  4. 🏢 Managed IT -> managed-it.png (also used on 1 other pages)
+  5. ☁ Backup & Recovery -> backup-and-recovery.png
+  6. 🌐 Network Support -> network-support.png (also used on 1 other pages)
+
+PAGE: contact-us
+URL: https://fresh.pcpluscomputing.com/contact-us/
+Images needed: 5
+  1. 🖥 Computer Repair -> computer-repair.png (also used on 1 other pages)
+  2. 💾 Data Recovery -> data-recovery.png (also used on 1 other pages)
+  3. 🏢 Managed IT -> managed-it.png (also used on 1 other pages)
+  4. 🛡 Cybersecurity -> cybersecurity.png
+  5. 🌐 Network Support -> network-support.png (also used on 1 other pages)
+
+PAGE: homepage
+URL: https://fresh.pcpluscomputing.com/
+Images needed: 29
+  1. For Home Customers -> for-home-customers.png
+  2. For Businesses -> for-businesses.png
+  3. Computer Repair -> computer-repair.png
+  4. Laptop Repair -> laptop-repair.png (also used on 1 other pages)
+  5. MacBook Repair -> macbook-repair.png
+  6. Business IT Services -> business-it-services.png
+  7. Phone & Tablet Repair -> phone-and-tablet-repair.png
+  8. Computer Networking -> computer-networking.png
+  9. Data Recovery -> data-recovery.png (also used on 1 other pages)
+  10. Website Design -> website-design.png
+  11. SEO Services -> seo-services.png
+  12. Traditional Break-Fix IT -> traditional-break-fix-it.png
+  13. PC Plus Proactive IT -> pc-plus-proactive-it.png
+  14. Realtors -> realtors.png
+  15. Accountants -> accountants.png
+  16. Law Offices -> law-offices.png
+  17. Immigration Consultants -> immigration-consultants.png
+  18. Medical Clinics -> medical-clinics.png
+  19. Retail Stores -> retail-stores.png
+  20. Restaurants -> restaurants.png
+  21. Small Offices -> small-offices.png
+  22. Surrey -> surrey.png
+  23. White Rock -> white-rock.png
+  24. Langley -> langley.png
+  25. Burnaby -> burnaby.png
+  26. Vancouver -> vancouver.png
+  27. Richmond -> richmond.png
+  28. Coquitlam -> coquitlam.png
+  29. Delta -> delta.png
+
+PAGE: services/business-it-services
+URL: https://fresh.pcpluscomputing.com/services/business-it-services/
+Images needed: 9
+  1. Managed IT Support -> managed-it-support.png
+  2. Network Security -> network-security.png
+  3. Backup & Disaster Recovery -> backup-and-disaster-recovery.png
+  4. Cybersecurity Protection -> cybersecurity-protection.png
+  5. Remote IT Support -> remote-it-support.png (also used on 1 other pages)
+  6. Server & Workstation Support -> server-and-workstation-support.png
+  7. Microsoft 365 & Email Help -> microsoft-365-and-email-help.png
+  8. IT Consulting & Planning -> it-consulting-and-planning.png
+  9. Secure -> secure.png (also used on 4 other pages)
+
+PAGE: services/cloud-migration
+URL: https://fresh.pcpluscomputing.com/services/cloud-migration/
+Images needed: 1
+  1. Why Choose PC Plus Computing for Cloud Migration -> why-choose-pc-plus-computing-for-cloud-migration.png
+
+PAGE: services/computer-repair
+URL: https://fresh.pcpluscomputing.com/services/computer-repair/
+Images needed: 12
+  1. Laptop Repair -> laptop-repair.png (also used on 1 other pages)
+  2. Desktop Computer Repair -> desktop-computer-repair.png
+  3. Virus & Malware Removal -> virus-and-malware-removal.png (also used on 1 other pages)
+  4. Data Recovery -> data-recovery.png (also used on 1 other pages)
+  5. Computer Tune-Up -> computer-tune-up.png
+  6. Hardware Upgrades -> hardware-upgrades.png
+  7. Network & Wi-Fi Support -> network-and-wi-fi-support.png
+  8. Business Computer Support -> business-computer-support.png
+  9. Local Surrey Service -> local-surrey-service.png
+  10. Clear Diagnostics -> clear-diagnostics.png (also used on 1 other pages)
+  11. Security Focused -> security-focused.png (also used on 1 other pages)
+  12. Home & Business Support -> home-and-business-support.png
+
+PAGE: services/cyber-security-services
+URL: https://fresh.pcpluscomputing.com/services/cyber-security-services/
+Images needed: 8
+  1. Endpoint Protection -> endpoint-protection.png
+  2. Ransomware Protection -> ransomware-protection.png
+  3. Firewall & VPN Security -> firewall-and-vpn-security.png
+  4. Secure Backup Planning -> secure-backup-planning.png
+  5. Password & Account Security -> password-and-account-security.png
+  6. Security Monitoring -> security-monitoring.png
+  7. Security Audit -> security-audit.png
+  8. Incident Cleanup -> incident-cleanup.png
+
+PAGE: services/data-recovery
+URL: https://fresh.pcpluscomputing.com/services/data-recovery/
+Images needed: 9
+  1. Hard Drive Data Recovery -> hard-drive-data-recovery.png
+  2. SSD Data Recovery -> ssd-data-recovery.png
+  3. Laptop Data Recovery -> laptop-data-recovery.png (also used on 1 other pages)
+  4. Deleted File Recovery -> deleted-file-recovery.png
+  5. External Drive & USB Recovery -> external-drive-and-usb-recovery.png
+  6. Crashed Windows Recovery -> crashed-windows-recovery.png
+  7. Business Data Recovery -> business-data-recovery.png
+  8. Backup & Data Protection -> backup-and-data-protection.png
+  9. Home & Business -> home-and-business.png
+
+PAGE: services/it-support
+URL: https://fresh.pcpluscomputing.com/services/it-support/
+Images needed: 9
+  1. Computer IT Support -> computer-it-support.png
+  2. Remote Helpdesk Support -> remote-helpdesk-support.png
+  3. Email Support -> email-support.png (also used on 1 other pages)
+  4. Printer Support -> printer-support.png
+  5. Network Troubleshooting -> network-troubleshooting.png (also used on 1 other pages)
+  6. Software Support -> software-support.png (also used on 1 other pages)
+  7. Cybersecurity Support -> cybersecurity-support.png (also used on 1 other pages)
+  8. Backup Support -> backup-support.png
+  9. Proactive -> proactive.png (also used on 3 other pages)
+
+PAGE: services/laptop-repair
+URL: https://fresh.pcpluscomputing.com/services/laptop-repair/
+Images needed: 11
+  1. Laptop Screen Repair -> laptop-screen-repair.png
+  2. Battery Replacement -> battery-replacement.png
+  3. Charging Port Repair -> charging-port-repair.png
+  4. Slow Laptop Tune-Up -> slow-laptop-tune-up.png
+  5. Virus & Malware Removal -> virus-and-malware-removal.png (also used on 1 other pages)
+  6. Laptop Data Recovery -> laptop-data-recovery.png (also used on 1 other pages)
+  7. SSD & RAM Upgrades -> ssd-and-ram-upgrades.png
+  8. Overheating Repair -> overheating-repair.png
+  9. Clear Diagnostics -> clear-diagnostics.png (also used on 1 other pages)
+  10. Security Focused -> security-focused.png (also used on 1 other pages)
+  11. Local Support -> local-support.png
+
+PAGE: services/macbook-repair
+URL: https://fresh.pcpluscomputing.com/services/macbook-repair/
+Images needed: 11
+  1. MacBook Air Repair -> macbook-air-repair.png
+  2. MacBook Pro Repair -> macbook-pro-repair.png
+  3. MacBook Battery Replacement -> macbook-battery-replacement.png
+  4. MacBook Screen Repair -> macbook-screen-repair.png
+  5. Liquid Damage Inspection -> liquid-damage-inspection.png
+  6. macOS Troubleshooting -> macos-troubleshooting.png
+  7. MacBook Data Recovery -> macbook-data-recovery.png
+  8. Mac Virus Removal -> mac-virus-removal.png
+  9. Experienced Technicians -> experienced-technicians.png
+  10. Data-Focused Repair -> data-focused-repair.png
+  11. Local Service Coverage -> local-service-coverage.png
+
+PAGE: services/managed-it-services
+URL: https://fresh.pcpluscomputing.com/services/managed-it-services/
+Images needed: 9
+  1. Proactive Monitoring -> proactive-monitoring.png
+  2. Patch Management -> patch-management.png
+  3. Remote IT Support -> remote-it-support.png (also used on 1 other pages)
+  4. Cybersecurity Support -> cybersecurity-support.png (also used on 1 other pages)
+  5. Backup Monitoring -> backup-monitoring.png
+  6. Network Support -> network-support.png
+  7. Endpoint Support -> endpoint-support.png
+  8. IT Planning -> it-planning.png
+  9. Secure -> secure.png (also used on 4 other pages)
+
+PAGE: services/network-setup
+URL: https://fresh.pcpluscomputing.com/services/network-setup/
+Images needed: 9
+  1. Wi-Fi Setup -> wi-fi-setup.png
+  2. Router Configuration -> router-configuration.png
+  3. Firewall Support -> firewall-support.png
+  4. Network Troubleshooting -> network-troubleshooting.png (also used on 1 other pages)
+  5. Business Networking -> business-networking.png
+  6. VPN Setup -> vpn-setup.png
+  7. Network Security Review -> network-security-review.png
+  8. Printer and Device Sharing -> printer-and-device-sharing.png
+  9. Secure -> secure.png (also used on 4 other pages)
+
+PAGE: services/onsite-computer-support
+URL: https://fresh.pcpluscomputing.com/services/onsite-computer-support/
+Images needed: 1
+  1. Why Choose PC Plus Computing for Onsite Computer Support -> why-choose-pc-plus-computing-for-onsite-computer-support.png
+
+PAGE: services/phone-tablet-repair
+URL: https://fresh.pcpluscomputing.com/services/phone-tablet-repair/
+Images needed: 9
+  1. Screen Issue Support -> screen-issue-support.png
+  2. Charging Problems -> charging-problems.png
+  3. Battery Concerns -> battery-concerns.png
+  4. Software Troubleshooting -> software-troubleshooting.png
+  5. Data Transfer -> data-transfer.png
+  6. Device Setup -> device-setup.png
+  7. Wi-Fi and Internet Issues -> wi-fi-and-internet-issues.png
+  8. Business Mobile Support -> business-mobile-support.png
+  9. Proactive -> proactive.png (also used on 3 other pages)
+
+PAGE: services/remote-support
+URL: https://fresh.pcpluscomputing.com/services/remote-support/
+Images needed: 9
+  1. Remote Computer Help -> remote-computer-help.png
+  2. Email Support -> email-support.png (also used on 1 other pages)
+  3. Printer Troubleshooting -> printer-troubleshooting.png
+  4. Software Support -> software-support.png (also used on 1 other pages)
+  5. Windows Troubleshooting -> windows-troubleshooting.png
+  6. Security Help -> security-help.png
+  7. Business Remote Support -> business-remote-support.png
+  8. Home Office Support -> home-office-support.png
+  9. Proactive -> proactive.png (also used on 3 other pages)
+
+PAGE: services/seo-services
+URL: https://fresh.pcpluscomputing.com/services/seo-services/
+Images needed: 9
+  1. Local SEO -> local-seo.png
+  2. Keyword Research -> keyword-research.png
+  3. On-Page SEO -> on-page-seo.png
+  4. Service Page SEO -> service-page-seo.png
+  5. Technical SEO Review -> technical-seo-review.png
+  6. Content Optimization -> content-optimization.png
+  7. Google Business Profile Support -> google-business-profile-support.png
+  8. SEO Reporting & Planning -> seo-reporting-and-planning.png
+  9. Proactive -> proactive.png (also used on 3 other pages)
+
+PAGE: services/virus-removal
+URL: https://fresh.pcpluscomputing.com/services/virus-removal/
+Images needed: 9
+  1. Virus Removal -> virus-removal.png
+  2. Malware Cleanup -> malware-cleanup.png
+  3. Ransomware Help -> ransomware-help.png
+  4. Pop-Up & Browser Fix -> pop-up-and-browser-fix.png
+  5. Slow Computer After Infection -> slow-computer-after-infection.png
+  6. Security Checkup -> security-checkup.png
+  7. Data Protection Review -> data-protection-review.png
+  8. Business Malware Removal -> business-malware-removal.png
+  9. Secure -> secure.png (also used on 4 other pages)
+
+PAGE: services/website-design
+URL: https://fresh.pcpluscomputing.com/services/website-design/
+Images needed: 9
+  1. Business Website Design -> business-website-design.png
+  2. WordPress Website Design -> wordpress-website-design.png
+  3. SEO-Friendly Page Structure -> seo-friendly-page-structure.png
+  4. Mobile Responsive Design -> mobile-responsive-design.png
+  5. Service Page Design -> service-page-design.png
+  6. Local Business Websites -> local-business-websites.png
+  7. Website Redesign -> website-redesign.png
+  8. Website Maintenance -> website-maintenance.png
+  9. Secure -> secure.png (also used on 4 other pages)
+
+
+============================================================
+REUSED IMAGES (generated once, used on multiple pages)
+============================================================
+
+  Clear Diagnostics (clear-diagnostics.png)
+    - services/computer-repair
+    - services/laptop-repair
+
+  Cybersecurity Support (cybersecurity-support.png)
+    - services/it-support
+    - services/managed-it-services
+
+  Data Recovery (data-recovery.png)
+    - homepage
+    - services/computer-repair
+
+  Email Support (email-support.png)
+    - services/it-support
+    - services/remote-support
+
+  Laptop Data Recovery (laptop-data-recovery.png)
+    - services/data-recovery
+    - services/laptop-repair
+
+  Laptop Repair (laptop-repair.png)
+    - homepage
+    - services/computer-repair
+
+  Network Troubleshooting (network-troubleshooting.png)
+    - services/it-support
+    - services/network-setup
+
+  Proactive (proactive.png)
+    - services/it-support
+    - services/phone-tablet-repair
+    - services/remote-support
+    - services/seo-services
+
+  Remote IT Support (remote-it-support.png)
+    - services/business-it-services
+    - services/managed-it-services
+
+  Secure (secure.png)
+    - services/business-it-services
+    - services/managed-it-services
+    - services/network-setup
+    - services/virus-removal
+    - services/website-design
+
+  Security Focused (security-focused.png)
+    - services/computer-repair
+    - services/laptop-repair
+
+  Software Support (software-support.png)
+    - services/it-support
+    - services/remote-support
+
+  Virus & Malware Removal (virus-and-malware-removal.png)
+    - services/computer-repair
+    - services/laptop-repair
+
+  🌐 Network Support (network-support.png)
+    - about
+    - contact-us
+
+  🏢 Managed IT (managed-it.png)
+    - about
+    - contact-us
+
+  💾 Data Recovery (data-recovery.png)
+    - about
+    - contact-us
+
+  🖥 Computer Repair (computer-repair.png)
+    - about
+    - contact-us

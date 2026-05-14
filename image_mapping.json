@@ -1,0 +1,1366 @@
+{
+  "summary": {
+    "total_unique_images": 152,
+    "total_pages": 114,
+    "pages_with_images": 19
+  },
+  "images": {
+    "Accountants": {
+      "filename": "accountants.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Backup & Data Protection": {
+      "filename": "backup-and-data-protection.png",
+      "used_on_pages": [
+        "services/data-recovery"
+      ],
+      "reuse_count": 1
+    },
+    "Backup & Disaster Recovery": {
+      "filename": "backup-and-disaster-recovery.png",
+      "used_on_pages": [
+        "services/business-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Backup Monitoring": {
+      "filename": "backup-monitoring.png",
+      "used_on_pages": [
+        "services/managed-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Backup Support": {
+      "filename": "backup-support.png",
+      "used_on_pages": [
+        "services/it-support"
+      ],
+      "reuse_count": 1
+    },
+    "Battery Concerns": {
+      "filename": "battery-concerns.png",
+      "used_on_pages": [
+        "services/phone-tablet-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Battery Replacement": {
+      "filename": "battery-replacement.png",
+      "used_on_pages": [
+        "services/laptop-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Burnaby": {
+      "filename": "burnaby.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Business Computer Support": {
+      "filename": "business-computer-support.png",
+      "used_on_pages": [
+        "services/computer-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Business Data Recovery": {
+      "filename": "business-data-recovery.png",
+      "used_on_pages": [
+        "services/data-recovery"
+      ],
+      "reuse_count": 1
+    },
+    "Business IT Services": {
+      "filename": "business-it-services.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Business Malware Removal": {
+      "filename": "business-malware-removal.png",
+      "used_on_pages": [
+        "services/virus-removal"
+      ],
+      "reuse_count": 1
+    },
+    "Business Mobile Support": {
+      "filename": "business-mobile-support.png",
+      "used_on_pages": [
+        "services/phone-tablet-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Business Networking": {
+      "filename": "business-networking.png",
+      "used_on_pages": [
+        "services/network-setup"
+      ],
+      "reuse_count": 1
+    },
+    "Business Remote Support": {
+      "filename": "business-remote-support.png",
+      "used_on_pages": [
+        "services/remote-support"
+      ],
+      "reuse_count": 1
+    },
+    "Business Website Design": {
+      "filename": "business-website-design.png",
+      "used_on_pages": [
+        "services/website-design"
+      ],
+      "reuse_count": 1
+    },
+    "Charging Port Repair": {
+      "filename": "charging-port-repair.png",
+      "used_on_pages": [
+        "services/laptop-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Charging Problems": {
+      "filename": "charging-problems.png",
+      "used_on_pages": [
+        "services/phone-tablet-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Clear Diagnostics": {
+      "filename": "clear-diagnostics.png",
+      "used_on_pages": [
+        "services/computer-repair",
+        "services/laptop-repair"
+      ],
+      "reuse_count": 2
+    },
+    "Computer IT Support": {
+      "filename": "computer-it-support.png",
+      "used_on_pages": [
+        "services/it-support"
+      ],
+      "reuse_count": 1
+    },
+    "Computer Networking": {
+      "filename": "computer-networking.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Computer Repair": {
+      "filename": "computer-repair.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Computer Tune-Up": {
+      "filename": "computer-tune-up.png",
+      "used_on_pages": [
+        "services/computer-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Content Optimization": {
+      "filename": "content-optimization.png",
+      "used_on_pages": [
+        "services/seo-services"
+      ],
+      "reuse_count": 1
+    },
+    "Coquitlam": {
+      "filename": "coquitlam.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Crashed Windows Recovery": {
+      "filename": "crashed-windows-recovery.png",
+      "used_on_pages": [
+        "services/data-recovery"
+      ],
+      "reuse_count": 1
+    },
+    "Cybersecurity Protection": {
+      "filename": "cybersecurity-protection.png",
+      "used_on_pages": [
+        "services/business-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Cybersecurity Support": {
+      "filename": "cybersecurity-support.png",
+      "used_on_pages": [
+        "services/it-support",
+        "services/managed-it-services"
+      ],
+      "reuse_count": 2
+    },
+    "Data Protection Review": {
+      "filename": "data-protection-review.png",
+      "used_on_pages": [
+        "services/virus-removal"
+      ],
+      "reuse_count": 1
+    },
+    "Data Recovery": {
+      "filename": "data-recovery.png",
+      "used_on_pages": [
+        "homepage",
+        "services/computer-repair"
+      ],
+      "reuse_count": 2
+    },
+    "Data Transfer": {
+      "filename": "data-transfer.png",
+      "used_on_pages": [
+        "services/phone-tablet-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Data-Focused Repair": {
+      "filename": "data-focused-repair.png",
+      "used_on_pages": [
+        "services/macbook-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Deleted File Recovery": {
+      "filename": "deleted-file-recovery.png",
+      "used_on_pages": [
+        "services/data-recovery"
+      ],
+      "reuse_count": 1
+    },
+    "Delta": {
+      "filename": "delta.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Desktop Computer Repair": {
+      "filename": "desktop-computer-repair.png",
+      "used_on_pages": [
+        "services/computer-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Device Setup": {
+      "filename": "device-setup.png",
+      "used_on_pages": [
+        "services/phone-tablet-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Email Support": {
+      "filename": "email-support.png",
+      "used_on_pages": [
+        "services/it-support",
+        "services/remote-support"
+      ],
+      "reuse_count": 2
+    },
+    "Endpoint Protection": {
+      "filename": "endpoint-protection.png",
+      "used_on_pages": [
+        "services/cyber-security-services"
+      ],
+      "reuse_count": 1
+    },
+    "Endpoint Support": {
+      "filename": "endpoint-support.png",
+      "used_on_pages": [
+        "services/managed-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Experienced Technicians": {
+      "filename": "experienced-technicians.png",
+      "used_on_pages": [
+        "services/macbook-repair"
+      ],
+      "reuse_count": 1
+    },
+    "External Drive & USB Recovery": {
+      "filename": "external-drive-and-usb-recovery.png",
+      "used_on_pages": [
+        "services/data-recovery"
+      ],
+      "reuse_count": 1
+    },
+    "Firewall & VPN Security": {
+      "filename": "firewall-and-vpn-security.png",
+      "used_on_pages": [
+        "services/cyber-security-services"
+      ],
+      "reuse_count": 1
+    },
+    "Firewall Support": {
+      "filename": "firewall-support.png",
+      "used_on_pages": [
+        "services/network-setup"
+      ],
+      "reuse_count": 1
+    },
+    "For Businesses": {
+      "filename": "for-businesses.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "For Home Customers": {
+      "filename": "for-home-customers.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Google Business Profile Support": {
+      "filename": "google-business-profile-support.png",
+      "used_on_pages": [
+        "services/seo-services"
+      ],
+      "reuse_count": 1
+    },
+    "Hard Drive Data Recovery": {
+      "filename": "hard-drive-data-recovery.png",
+      "used_on_pages": [
+        "services/data-recovery"
+      ],
+      "reuse_count": 1
+    },
+    "Hardware Upgrades": {
+      "filename": "hardware-upgrades.png",
+      "used_on_pages": [
+        "services/computer-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Home & Business": {
+      "filename": "home-and-business.png",
+      "used_on_pages": [
+        "services/data-recovery"
+      ],
+      "reuse_count": 1
+    },
+    "Home & Business Support": {
+      "filename": "home-and-business-support.png",
+      "used_on_pages": [
+        "services/computer-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Home Office Support": {
+      "filename": "home-office-support.png",
+      "used_on_pages": [
+        "services/remote-support"
+      ],
+      "reuse_count": 1
+    },
+    "IT Consulting & Planning": {
+      "filename": "it-consulting-and-planning.png",
+      "used_on_pages": [
+        "services/business-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "IT Planning": {
+      "filename": "it-planning.png",
+      "used_on_pages": [
+        "services/managed-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Immigration Consultants": {
+      "filename": "immigration-consultants.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Incident Cleanup": {
+      "filename": "incident-cleanup.png",
+      "used_on_pages": [
+        "services/cyber-security-services"
+      ],
+      "reuse_count": 1
+    },
+    "Keyword Research": {
+      "filename": "keyword-research.png",
+      "used_on_pages": [
+        "services/seo-services"
+      ],
+      "reuse_count": 1
+    },
+    "Langley": {
+      "filename": "langley.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Laptop Data Recovery": {
+      "filename": "laptop-data-recovery.png",
+      "used_on_pages": [
+        "services/data-recovery",
+        "services/laptop-repair"
+      ],
+      "reuse_count": 2
+    },
+    "Laptop Repair": {
+      "filename": "laptop-repair.png",
+      "used_on_pages": [
+        "homepage",
+        "services/computer-repair"
+      ],
+      "reuse_count": 2
+    },
+    "Laptop Screen Repair": {
+      "filename": "laptop-screen-repair.png",
+      "used_on_pages": [
+        "services/laptop-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Law Offices": {
+      "filename": "law-offices.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Liquid Damage Inspection": {
+      "filename": "liquid-damage-inspection.png",
+      "used_on_pages": [
+        "services/macbook-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Local Business Websites": {
+      "filename": "local-business-websites.png",
+      "used_on_pages": [
+        "services/website-design"
+      ],
+      "reuse_count": 1
+    },
+    "Local SEO": {
+      "filename": "local-seo.png",
+      "used_on_pages": [
+        "services/seo-services"
+      ],
+      "reuse_count": 1
+    },
+    "Local Service Coverage": {
+      "filename": "local-service-coverage.png",
+      "used_on_pages": [
+        "services/macbook-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Local Support": {
+      "filename": "local-support.png",
+      "used_on_pages": [
+        "services/laptop-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Local Surrey Service": {
+      "filename": "local-surrey-service.png",
+      "used_on_pages": [
+        "services/computer-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Mac Virus Removal": {
+      "filename": "mac-virus-removal.png",
+      "used_on_pages": [
+        "services/macbook-repair"
+      ],
+      "reuse_count": 1
+    },
+    "MacBook Air Repair": {
+      "filename": "macbook-air-repair.png",
+      "used_on_pages": [
+        "services/macbook-repair"
+      ],
+      "reuse_count": 1
+    },
+    "MacBook Battery Replacement": {
+      "filename": "macbook-battery-replacement.png",
+      "used_on_pages": [
+        "services/macbook-repair"
+      ],
+      "reuse_count": 1
+    },
+    "MacBook Data Recovery": {
+      "filename": "macbook-data-recovery.png",
+      "used_on_pages": [
+        "services/macbook-repair"
+      ],
+      "reuse_count": 1
+    },
+    "MacBook Pro Repair": {
+      "filename": "macbook-pro-repair.png",
+      "used_on_pages": [
+        "services/macbook-repair"
+      ],
+      "reuse_count": 1
+    },
+    "MacBook Repair": {
+      "filename": "macbook-repair.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "MacBook Screen Repair": {
+      "filename": "macbook-screen-repair.png",
+      "used_on_pages": [
+        "services/macbook-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Malware Cleanup": {
+      "filename": "malware-cleanup.png",
+      "used_on_pages": [
+        "services/virus-removal"
+      ],
+      "reuse_count": 1
+    },
+    "Managed IT Support": {
+      "filename": "managed-it-support.png",
+      "used_on_pages": [
+        "services/business-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Medical Clinics": {
+      "filename": "medical-clinics.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Microsoft 365 & Email Help": {
+      "filename": "microsoft-365-and-email-help.png",
+      "used_on_pages": [
+        "services/business-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Mobile Responsive Design": {
+      "filename": "mobile-responsive-design.png",
+      "used_on_pages": [
+        "services/website-design"
+      ],
+      "reuse_count": 1
+    },
+    "Network & Wi-Fi Support": {
+      "filename": "network-and-wi-fi-support.png",
+      "used_on_pages": [
+        "services/computer-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Network Security": {
+      "filename": "network-security.png",
+      "used_on_pages": [
+        "services/business-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Network Security Review": {
+      "filename": "network-security-review.png",
+      "used_on_pages": [
+        "services/network-setup"
+      ],
+      "reuse_count": 1
+    },
+    "Network Support": {
+      "filename": "network-support.png",
+      "used_on_pages": [
+        "services/managed-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Network Troubleshooting": {
+      "filename": "network-troubleshooting.png",
+      "used_on_pages": [
+        "services/it-support",
+        "services/network-setup"
+      ],
+      "reuse_count": 2
+    },
+    "On-Page SEO": {
+      "filename": "on-page-seo.png",
+      "used_on_pages": [
+        "services/seo-services"
+      ],
+      "reuse_count": 1
+    },
+    "Overheating Repair": {
+      "filename": "overheating-repair.png",
+      "used_on_pages": [
+        "services/laptop-repair"
+      ],
+      "reuse_count": 1
+    },
+    "PC Plus Proactive IT": {
+      "filename": "pc-plus-proactive-it.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Password & Account Security": {
+      "filename": "password-and-account-security.png",
+      "used_on_pages": [
+        "services/cyber-security-services"
+      ],
+      "reuse_count": 1
+    },
+    "Patch Management": {
+      "filename": "patch-management.png",
+      "used_on_pages": [
+        "services/managed-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Phone & Tablet Repair": {
+      "filename": "phone-and-tablet-repair.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Pop-Up & Browser Fix": {
+      "filename": "pop-up-and-browser-fix.png",
+      "used_on_pages": [
+        "services/virus-removal"
+      ],
+      "reuse_count": 1
+    },
+    "Printer Support": {
+      "filename": "printer-support.png",
+      "used_on_pages": [
+        "services/it-support"
+      ],
+      "reuse_count": 1
+    },
+    "Printer Troubleshooting": {
+      "filename": "printer-troubleshooting.png",
+      "used_on_pages": [
+        "services/remote-support"
+      ],
+      "reuse_count": 1
+    },
+    "Printer and Device Sharing": {
+      "filename": "printer-and-device-sharing.png",
+      "used_on_pages": [
+        "services/network-setup"
+      ],
+      "reuse_count": 1
+    },
+    "Proactive": {
+      "filename": "proactive.png",
+      "used_on_pages": [
+        "services/it-support",
+        "services/phone-tablet-repair",
+        "services/remote-support",
+        "services/seo-services"
+      ],
+      "reuse_count": 4
+    },
+    "Proactive Monitoring": {
+      "filename": "proactive-monitoring.png",
+      "used_on_pages": [
+        "services/managed-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Ransomware Help": {
+      "filename": "ransomware-help.png",
+      "used_on_pages": [
+        "services/virus-removal"
+      ],
+      "reuse_count": 1
+    },
+    "Ransomware Protection": {
+      "filename": "ransomware-protection.png",
+      "used_on_pages": [
+        "services/cyber-security-services"
+      ],
+      "reuse_count": 1
+    },
+    "Realtors": {
+      "filename": "realtors.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Remote Computer Help": {
+      "filename": "remote-computer-help.png",
+      "used_on_pages": [
+        "services/remote-support"
+      ],
+      "reuse_count": 1
+    },
+    "Remote Helpdesk Support": {
+      "filename": "remote-helpdesk-support.png",
+      "used_on_pages": [
+        "services/it-support"
+      ],
+      "reuse_count": 1
+    },
+    "Remote IT Support": {
+      "filename": "remote-it-support.png",
+      "used_on_pages": [
+        "services/business-it-services",
+        "services/managed-it-services"
+      ],
+      "reuse_count": 2
+    },
+    "Restaurants": {
+      "filename": "restaurants.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Retail Stores": {
+      "filename": "retail-stores.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Richmond": {
+      "filename": "richmond.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Router Configuration": {
+      "filename": "router-configuration.png",
+      "used_on_pages": [
+        "services/network-setup"
+      ],
+      "reuse_count": 1
+    },
+    "SEO Reporting & Planning": {
+      "filename": "seo-reporting-and-planning.png",
+      "used_on_pages": [
+        "services/seo-services"
+      ],
+      "reuse_count": 1
+    },
+    "SEO Services": {
+      "filename": "seo-services.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "SEO-Friendly Page Structure": {
+      "filename": "seo-friendly-page-structure.png",
+      "used_on_pages": [
+        "services/website-design"
+      ],
+      "reuse_count": 1
+    },
+    "SSD & RAM Upgrades": {
+      "filename": "ssd-and-ram-upgrades.png",
+      "used_on_pages": [
+        "services/laptop-repair"
+      ],
+      "reuse_count": 1
+    },
+    "SSD Data Recovery": {
+      "filename": "ssd-data-recovery.png",
+      "used_on_pages": [
+        "services/data-recovery"
+      ],
+      "reuse_count": 1
+    },
+    "Screen Issue Support": {
+      "filename": "screen-issue-support.png",
+      "used_on_pages": [
+        "services/phone-tablet-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Secure": {
+      "filename": "secure.png",
+      "used_on_pages": [
+        "services/business-it-services",
+        "services/managed-it-services",
+        "services/network-setup",
+        "services/virus-removal",
+        "services/website-design"
+      ],
+      "reuse_count": 5
+    },
+    "Secure Backup Planning": {
+      "filename": "secure-backup-planning.png",
+      "used_on_pages": [
+        "services/cyber-security-services"
+      ],
+      "reuse_count": 1
+    },
+    "Security Audit": {
+      "filename": "security-audit.png",
+      "used_on_pages": [
+        "services/cyber-security-services"
+      ],
+      "reuse_count": 1
+    },
+    "Security Checkup": {
+      "filename": "security-checkup.png",
+      "used_on_pages": [
+        "services/virus-removal"
+      ],
+      "reuse_count": 1
+    },
+    "Security Focused": {
+      "filename": "security-focused.png",
+      "used_on_pages": [
+        "services/computer-repair",
+        "services/laptop-repair"
+      ],
+      "reuse_count": 2
+    },
+    "Security Help": {
+      "filename": "security-help.png",
+      "used_on_pages": [
+        "services/remote-support"
+      ],
+      "reuse_count": 1
+    },
+    "Security Monitoring": {
+      "filename": "security-monitoring.png",
+      "used_on_pages": [
+        "services/cyber-security-services"
+      ],
+      "reuse_count": 1
+    },
+    "Server & Workstation Support": {
+      "filename": "server-and-workstation-support.png",
+      "used_on_pages": [
+        "services/business-it-services"
+      ],
+      "reuse_count": 1
+    },
+    "Service Page Design": {
+      "filename": "service-page-design.png",
+      "used_on_pages": [
+        "services/website-design"
+      ],
+      "reuse_count": 1
+    },
+    "Service Page SEO": {
+      "filename": "service-page-seo.png",
+      "used_on_pages": [
+        "services/seo-services"
+      ],
+      "reuse_count": 1
+    },
+    "Slow Computer After Infection": {
+      "filename": "slow-computer-after-infection.png",
+      "used_on_pages": [
+        "services/virus-removal"
+      ],
+      "reuse_count": 1
+    },
+    "Slow Laptop Tune-Up": {
+      "filename": "slow-laptop-tune-up.png",
+      "used_on_pages": [
+        "services/laptop-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Small Offices": {
+      "filename": "small-offices.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Software Support": {
+      "filename": "software-support.png",
+      "used_on_pages": [
+        "services/it-support",
+        "services/remote-support"
+      ],
+      "reuse_count": 2
+    },
+    "Software Troubleshooting": {
+      "filename": "software-troubleshooting.png",
+      "used_on_pages": [
+        "services/phone-tablet-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Surrey": {
+      "filename": "surrey.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Technical SEO Review": {
+      "filename": "technical-seo-review.png",
+      "used_on_pages": [
+        "services/seo-services"
+      ],
+      "reuse_count": 1
+    },
+    "Traditional Break-Fix IT": {
+      "filename": "traditional-break-fix-it.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "VPN Setup": {
+      "filename": "vpn-setup.png",
+      "used_on_pages": [
+        "services/network-setup"
+      ],
+      "reuse_count": 1
+    },
+    "Vancouver": {
+      "filename": "vancouver.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Virus & Malware Removal": {
+      "filename": "virus-and-malware-removal.png",
+      "used_on_pages": [
+        "services/computer-repair",
+        "services/laptop-repair"
+      ],
+      "reuse_count": 2
+    },
+    "Virus Removal": {
+      "filename": "virus-removal.png",
+      "used_on_pages": [
+        "services/virus-removal"
+      ],
+      "reuse_count": 1
+    },
+    "Website Design": {
+      "filename": "website-design.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Website Maintenance": {
+      "filename": "website-maintenance.png",
+      "used_on_pages": [
+        "services/website-design"
+      ],
+      "reuse_count": 1
+    },
+    "Website Redesign": {
+      "filename": "website-redesign.png",
+      "used_on_pages": [
+        "services/website-design"
+      ],
+      "reuse_count": 1
+    },
+    "White Rock": {
+      "filename": "white-rock.png",
+      "used_on_pages": [
+        "homepage"
+      ],
+      "reuse_count": 1
+    },
+    "Why Choose PC Plus Computing for Cloud Migration": {
+      "filename": "why-choose-pc-plus-computing-for-cloud-migration.png",
+      "used_on_pages": [
+        "services/cloud-migration"
+      ],
+      "reuse_count": 1
+    },
+    "Why Choose PC Plus Computing for Onsite Computer Support": {
+      "filename": "why-choose-pc-plus-computing-for-onsite-computer-support.png",
+      "used_on_pages": [
+        "services/onsite-computer-support"
+      ],
+      "reuse_count": 1
+    },
+    "Wi-Fi Setup": {
+      "filename": "wi-fi-setup.png",
+      "used_on_pages": [
+        "services/network-setup"
+      ],
+      "reuse_count": 1
+    },
+    "Wi-Fi and Internet Issues": {
+      "filename": "wi-fi-and-internet-issues.png",
+      "used_on_pages": [
+        "services/phone-tablet-repair"
+      ],
+      "reuse_count": 1
+    },
+    "Windows Troubleshooting": {
+      "filename": "windows-troubleshooting.png",
+      "used_on_pages": [
+        "services/remote-support"
+      ],
+      "reuse_count": 1
+    },
+    "WordPress Website Design": {
+      "filename": "wordpress-website-design.png",
+      "used_on_pages": [
+        "services/website-design"
+      ],
+      "reuse_count": 1
+    },
+    "macOS Troubleshooting": {
+      "filename": "macos-troubleshooting.png",
+      "used_on_pages": [
+        "services/macbook-repair"
+      ],
+      "reuse_count": 1
+    },
+    "\u2601 Backup & Recovery": {
+      "filename": "backup-and-recovery.png",
+      "used_on_pages": [
+        "about"
+      ],
+      "reuse_count": 1
+    },
+    "\ud83c\udf10 Network Support": {
+      "filename": "network-support.png",
+      "used_on_pages": [
+        "about",
+        "contact-us"
+      ],
+      "reuse_count": 2
+    },
+    "\ud83c\udfe2 Managed IT": {
+      "filename": "managed-it.png",
+      "used_on_pages": [
+        "about",
+        "contact-us"
+      ],
+      "reuse_count": 2
+    },
+    "\ud83d\udcbe Data Recovery": {
+      "filename": "data-recovery.png",
+      "used_on_pages": [
+        "about",
+        "contact-us"
+      ],
+      "reuse_count": 2
+    },
+    "\ud83d\udda5 Computer Repair": {
+      "filename": "computer-repair.png",
+      "used_on_pages": [
+        "about",
+        "contact-us"
+      ],
+      "reuse_count": 2
+    },
+    "\ud83d\udee0 Fix Problems Fast": {
+      "filename": "fix-problems-fast.png",
+      "used_on_pages": [
+        "about"
+      ],
+      "reuse_count": 1
+    },
+    "\ud83d\udee1 Cybersecurity": {
+      "filename": "cybersecurity.png",
+      "used_on_pages": [
+        "contact-us"
+      ],
+      "reuse_count": 1
+    }
+  },
+  "pages": {
+    "about": {
+      "image_count": 6,
+      "images": [
+        "\ud83d\udee0 Fix Problems Fast",
+        "\ud83d\udda5 Computer Repair",
+        "\ud83d\udcbe Data Recovery",
+        "\ud83c\udfe2 Managed IT",
+        "\u2601 Backup & Recovery",
+        "\ud83c\udf10 Network Support"
+      ]
+    },
+    "contact-us": {
+      "image_count": 5,
+      "images": [
+        "\ud83d\udda5 Computer Repair",
+        "\ud83d\udcbe Data Recovery",
+        "\ud83c\udfe2 Managed IT",
+        "\ud83d\udee1 Cybersecurity",
+        "\ud83c\udf10 Network Support"
+      ]
+    },
+    "homepage": {
+      "image_count": 29,
+      "images": [
+        "For Home Customers",
+        "For Businesses",
+        "Computer Repair",
+        "Laptop Repair",
+        "MacBook Repair",
+        "Business IT Services",
+        "Phone & Tablet Repair",
+        "Computer Networking",
+        "Data Recovery",
+        "Website Design",
+        "SEO Services",
+        "Traditional Break-Fix IT",
+        "PC Plus Proactive IT",
+        "Realtors",
+        "Accountants",
+        "Law Offices",
+        "Immigration Consultants",
+        "Medical Clinics",
+        "Retail Stores",
+        "Restaurants",
+        "Small Offices",
+        "Surrey",
+        "White Rock",
+        "Langley",
+        "Burnaby",
+        "Vancouver",
+        "Richmond",
+        "Coquitlam",
+        "Delta"
+      ]
+    },
+    "services/business-it-services": {
+      "image_count": 9,
+      "images": [
+        "Managed IT Support",
+        "Network Security",
+        "Backup & Disaster Recovery",
+        "Cybersecurity Protection",
+        "Remote IT Support",
+        "Server & Workstation Support",
+        "Microsoft 365 & Email Help",
+        "IT Consulting & Planning",
+        "Secure"
+      ]
+    },
+    "services/cloud-migration": {
+      "image_count": 1,
+      "images": [
+        "Why Choose PC Plus Computing for Cloud Migration"
+      ]
+    },
+    "services/computer-repair": {
+      "image_count": 12,
+      "images": [
+        "Laptop Repair",
+        "Desktop Computer Repair",
+        "Virus & Malware Removal",
+        "Data Recovery",
+        "Computer Tune-Up",
+        "Hardware Upgrades",
+        "Network & Wi-Fi Support",
+        "Business Computer Support",
+        "Local Surrey Service",
+        "Clear Diagnostics",
+        "Security Focused",
+        "Home & Business Support"
+      ]
+    },
+    "services/cyber-security-services": {
+      "image_count": 8,
+      "images": [
+        "Endpoint Protection",
+        "Ransomware Protection",
+        "Firewall & VPN Security",
+        "Secure Backup Planning",
+        "Password & Account Security",
+        "Security Monitoring",
+        "Security Audit",
+        "Incident Cleanup"
+      ]
+    },
+    "services/data-recovery": {
+      "image_count": 9,
+      "images": [
+        "Hard Drive Data Recovery",
+        "SSD Data Recovery",
+        "Laptop Data Recovery",
+        "Deleted File Recovery",
+        "External Drive & USB Recovery",
+        "Crashed Windows Recovery",
+        "Business Data Recovery",
+        "Backup & Data Protection",
+        "Home & Business"
+      ]
+    },
+    "services/it-support": {
+      "image_count": 9,
+      "images": [
+        "Computer IT Support",
+        "Remote Helpdesk Support",
+        "Email Support",
+        "Printer Support",
+        "Network Troubleshooting",
+        "Software Support",
+        "Cybersecurity Support",
+        "Backup Support",
+        "Proactive"
+      ]
+    },
+    "services/laptop-repair": {
+      "image_count": 11,
+      "images": [
+        "Laptop Screen Repair",
+        "Battery Replacement",
+        "Charging Port Repair",
+        "Slow Laptop Tune-Up",
+        "Virus & Malware Removal",
+        "Laptop Data Recovery",
+        "SSD & RAM Upgrades",
+        "Overheating Repair",
+        "Clear Diagnostics",
+        "Security Focused",
+        "Local Support"
+      ]
+    },
+    "services/macbook-repair": {
+      "image_count": 11,
+      "images": [
+        "MacBook Air Repair",
+        "MacBook Pro Repair",
+        "MacBook Battery Replacement",
+        "MacBook Screen Repair",
+        "Liquid Damage Inspection",
+        "macOS Troubleshooting",
+        "MacBook Data Recovery",
+        "Mac Virus Removal",
+        "Experienced Technicians",
+        "Data-Focused Repair",
+        "Local Service Coverage"
+      ]
+    },
+    "services/managed-it-services": {
+      "image_count": 9,
+      "images": [
+        "Proactive Monitoring",
+        "Patch Management",
+        "Remote IT Support",
+        "Cybersecurity Support",
+        "Backup Monitoring",
+        "Network Support",
+        "Endpoint Support",
+        "IT Planning",
+        "Secure"
+      ]
+    },
+    "services/network-setup": {
+      "image_count": 9,
+      "images": [
+        "Wi-Fi Setup",
+        "Router Configuration",
+        "Firewall Support",
+        "Network Troubleshooting",
+        "Business Networking",
+        "VPN Setup",
+        "Network Security Review",
+        "Printer and Device Sharing",
+        "Secure"
+      ]
+    },
+    "services/onsite-computer-support": {
+      "image_count": 1,
+      "images": [
+        "Why Choose PC Plus Computing for Onsite Computer Support"
+      ]
+    },
+    "services/phone-tablet-repair": {
+      "image_count": 9,
+      "images": [
+        "Screen Issue Support",
+        "Charging Problems",
+        "Battery Concerns",
+        "Software Troubleshooting",
+        "Data Transfer",
+        "Device Setup",
+        "Wi-Fi and Internet Issues",
+        "Business Mobile Support",
+        "Proactive"
+      ]
+    },
+    "services/remote-support": {
+      "image_count": 9,
+      "images": [
+        "Remote Computer Help",
+        "Email Support",
+        "Printer Troubleshooting",
+        "Software Support",
+        "Windows Troubleshooting",
+        "Security Help",
+        "Business Remote Support",
+        "Home Office Support",
+        "Proactive"
+      ]
+    },
+    "services/seo-services": {
+      "image_count": 9,
+      "images": [
+        "Local SEO",
+        "Keyword Research",
+        "On-Page SEO",
+        "Service Page SEO",
+        "Technical SEO Review",
+        "Content Optimization",
+        "Google Business Profile Support",
+        "SEO Reporting & Planning",
+        "Proactive"
+      ]
+    },
+    "services/virus-removal": {
+      "image_count": 9,
+      "images": [
+        "Virus Removal",
+        "Malware Cleanup",
+        "Ransomware Help",
+        "Pop-Up & Browser Fix",
+        "Slow Computer After Infection",
+        "Security Checkup",
+        "Data Protection Review",
+        "Business Malware Removal",
+        "Secure"
+      ]
+    },
+    "services/website-design": {
+      "image_count": 9,
+      "images": [
+        "Business Website Design",
+        "WordPress Website Design",
+        "SEO-Friendly Page Structure",
+        "Mobile Responsive Design",
+        "Service Page Design",
+        "Local Business Websites",
+        "Website Redesign",
+        "Website Maintenance",
+        "Secure"
+      ]
+    }
+  }
+}
