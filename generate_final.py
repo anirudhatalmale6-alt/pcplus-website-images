@@ -26,8 +26,7 @@ import json
 import time
 import base64
 import argparse
-import urllib.request
-import urllib.error
+import requests as req_lib
 from io import BytesIO
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageEnhance
 
@@ -118,22 +117,22 @@ def get_bg_prompt(title):
 
 def generate_bg_together(title, output_path, api_key):
     prompt = get_bg_prompt(title)
-    payload = json.dumps({
-        "model": "black-forest-labs/FLUX.1-schnell",
-        "prompt": prompt,
-        "width": BG_SIZE,
-        "height": BG_SIZE,
-        "steps": 4,
-        "n": 1,
-        "response_format": "b64_json"
-    }).encode()
-    req = urllib.request.Request(
+    resp = req_lib.post(
         "https://api.together.xyz/v1/images/generations",
-        data=payload,
-        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+        json={
+            "model": "black-forest-labs/FLUX.1-schnell",
+            "prompt": prompt,
+            "width": BG_SIZE,
+            "height": BG_SIZE,
+            "steps": 4,
+            "n": 1,
+            "response_format": "b64_json"
+        },
+        timeout=90
     )
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        result = json.loads(resp.read().decode())
+    resp.raise_for_status()
+    result = resp.json()
     b64 = result["data"][0]["b64_json"]
     img = Image.open(BytesIO(base64.b64decode(b64)))
     img.save(output_path, "PNG")
@@ -141,62 +140,33 @@ def generate_bg_together(title, output_path, api_key):
 
 def generate_bg_replicate(title, output_path, api_key):
     prompt = get_bg_prompt(title)
-    payload = json.dumps({
-        "input": {
-            "prompt": prompt,
-            "go_fast": True,
-            "num_outputs": 1,
-            "aspect_ratio": "1:1",
-            "output_format": "png",
-            "output_quality": 90
-        }
-    }).encode()
-    req = urllib.request.Request(
+    resp = req_lib.post(
         "https://api.replicate.com/v1/models/black-forest-labs/flux-schnell/predictions",
-        data=payload,
-        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json", "Prefer": "wait"}
+        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json", "Prefer": "wait"},
+        json={"input": {"prompt": prompt, "go_fast": True, "num_outputs": 1, "aspect_ratio": "1:1", "output_format": "png", "output_quality": 90}},
+        timeout=120
     )
-    with urllib.request.urlopen(req, timeout=120) as resp:
-        result = json.loads(resp.read().decode())
+    resp.raise_for_status()
+    result = resp.json()
     img_url = result["output"][0]
-    img_req = urllib.request.Request(img_url)
-    with urllib.request.urlopen(img_req, timeout=60) as img_resp:
-        img = Image.open(BytesIO(img_resp.read()))
+    img_resp = req_lib.get(img_url, timeout=60)
+    img = Image.open(BytesIO(img_resp.content))
     img.save(output_path, "PNG")
     return img
 
 def generate_bg_openai(title, output_path, api_key):
     prompt = get_bg_prompt(title)
-    try:
-        from openai import OpenAI
-        client = OpenAI(api_key=api_key)
-        result = client.images.generate(
-            model="gpt-image-1",
-            prompt=prompt,
-            size="1024x1024",
-            quality="medium",
-        )
-        b64 = result.data[0].b64_json
-        img = Image.open(BytesIO(base64.b64decode(b64)))
-    except ImportError:
-        payload = json.dumps({
-            "model": "dall-e-3",
-            "prompt": prompt,
-            "n": 1,
-            "size": "1024x1024",
-            "quality": "standard",
-            "response_format": "url"
-        }).encode()
-        req = urllib.request.Request(
-            "https://api.openai.com/v1/images/generations",
-            data=payload,
-            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
-        )
-        with urllib.request.urlopen(req, timeout=120) as resp:
-            result = json.loads(resp.read().decode())
-        img_url = result["data"][0]["url"]
-        with urllib.request.urlopen(img_url, timeout=60) as img_resp:
-            img = Image.open(BytesIO(img_resp.read()))
+    resp = req_lib.post(
+        "https://api.openai.com/v1/images/generations",
+        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+        json={"model": "dall-e-3", "prompt": prompt, "n": 1, "size": "1024x1024", "quality": "standard", "response_format": "url"},
+        timeout=120
+    )
+    resp.raise_for_status()
+    result = resp.json()
+    img_url = result["data"][0]["url"]
+    img_resp = req_lib.get(img_url, timeout=60)
+    img = Image.open(BytesIO(img_resp.content))
     img.save(output_path, "PNG")
     return img
 
@@ -221,7 +191,12 @@ def wrap_text(text, font, max_width, draw):
         lines.append(current)
     return lines
 
+def strip_emoji(text):
+    import re
+    return re.sub(r'[\U00010000-\U0010ffff☀-➿✀-➿⌀-⏿⭐⭕▪-◿⤴-⤵‼⁉ℹ↔-↙↩-↪⌚-⌛⏩-⏳⏸-⏺Ⓜ▫▶◀◻-◾☑☔-☕☢☣☦☪☮☯☸-☺♈-♓♠♣♥♦♨♻♿⚒-⚗⚙⚛⚜⚠⚡⚪⚫⚰⚱⚽⚾⛄⛅⛈⛎⛏⛑⛓⛔⛩⛪⛰-⛵⛷-⛺⛽✂✅✈-✍✏✒✔✖✝✡✨✳✴❄❇❌❎❓-❕❗❣❤➕-➗➡➰]', '', text).strip()
+
 def overlay_branding(bg_img, title):
+    title = strip_emoji(title)
     bg = bg_img.resize((FINAL_SIZE, FINAL_SIZE), Image.LANCZOS)
     darken = ImageEnhance.Brightness(bg).enhance(0.45)
     blue_overlay = Image.new('RGBA', (FINAL_SIZE, FINAL_SIZE), (5, 25, 65, 140))
