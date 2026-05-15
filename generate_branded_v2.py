@@ -181,8 +181,8 @@ def generate_image(title, output_path, api_key, retries=2):
             headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
             json={"model": MODEL, "prompt": prompt, "width": GEN_SIZE, "height": GEN_SIZE, "n": 1, "response_format": "b64_json"},
             timeout=120)
-        if resp.status_code == 400 and attempt < retries:
-            time.sleep(3)
+        if resp.status_code in (400, 402) and attempt < retries:
+            time.sleep(5)
             continue
         resp.raise_for_status()
         break
