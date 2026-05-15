@@ -63,6 +63,23 @@ for h3 in sorted(_shared_boxes):
     safe = ''.join(c for c in safe if c.isalnum() or c == '-').strip('-')[:60]
     IMAGES.append({'title': clean, 'filename': safe, 'page': 'shared'})
 
+_surrey_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'surrey-service-cards-master-list.txt')
+if os.path.exists(_surrey_file):
+    with open(_surrey_file) as _sf:
+        _cur_page = 'surrey'
+        for _line in _sf:
+            _line = _line.strip()
+            if _line.startswith('/'):
+                _cur_page = _line
+            elif _line.startswith('- '):
+                clean = _line[2:].strip()
+                if not clean or clean in _seen:
+                    continue
+                _seen.add(clean)
+                safe = clean.lower().replace('&', 'and').replace(' ', '-')
+                safe = ''.join(c for c in safe if c.isalnum() or c == '-').strip('-')[:60]
+                IMAGES.append({'title': clean, 'filename': safe, 'page': _cur_page})
+
 
 def get_category_context(title):
     t = title.lower()
@@ -84,7 +101,13 @@ def get_category_context(title):
         return "Show a web designer or SEO specialist working on a modern website, dual monitors visible."
     if any(w in t for w in ['cloud', 'backup', 'email', 'microsoft', 'remote work', '365']):
         return "Show cloud computing or office IT setup with professional helping a business client."
-    if any(w in t for w in ['business', 'managed', 'helpdesk', 'consulting', 'outsource', 'office', 'server manage', 'maintenance', 'it planning', 'it support']):
+    if any(w in t for w in ['server', 'hyper-v', 'proxmox', 'virtualization', 'windows server']):
+        return "Show server room with rack servers, blinking lights, IT professional managing infrastructure."
+    if any(w in t for w in ['voip', 'sharepoint', 'onedrive', 'patch management', 'compliance', 'siem', 'vlan', 'switch']):
+        return "Show IT professional configuring enterprise systems in a modern office with multiple monitors."
+    if any(w in t for w in ['emergency', 'urgent', 'downtime', 'priority', 'critical']):
+        return "Show IT professional responding urgently to a computer emergency, focused and professional."
+    if any(w in t for w in ['business', 'managed', 'helpdesk', 'consulting', 'outsource', 'office', 'server manage', 'maintenance', 'it planning', 'it support', 'device management']):
         return "Show IT professional helping a business client in a modern office environment."
     if any(w in t for w in ['surrey', 'vancouver', 'burnaby', 'langley', 'richmond', 'coquitlam', 'delta', 'white rock']):
         return f"Show a professional IT service van or storefront in {title}, BC with the city visible."
@@ -104,7 +127,10 @@ def get_bullets(title):
     if 'macbook' in t or 'mac' in t: return ["Apple Certified", "Screen & Battery", "Data Recovery", "OS Repair"]
     if 'data recovery' in t or 'drive' in t or 'deleted' in t or 'ssd data' in t: return ["Hard Drive Recovery", "SSD Recovery", "Deleted Files", "RAID Recovery"]
     if 'security' in t or 'cyber' in t or 'firewall' in t or 'virus' in t or 'malware' in t or 'ransomware' in t or 'phishing' in t: return ["Threat Detection", "Real-Time Protection", "Security Audits", "24/7 Monitoring"]
-    if 'network' in t or 'wi-fi' in t or 'router' in t or 'vpn' in t: return ["Network Setup", "Wi-Fi Optimization", "Troubleshooting", "Secure Connections"]
+    if 'network' in t or 'wi-fi' in t or 'wifi' in t or 'router' in t or 'vpn' in t or 'cabling' in t or 'vlan' in t or 'switch' in t: return ["Network Setup", "Wi-Fi Optimization", "Troubleshooting", "Secure Connections"]
+    if 'server' in t or 'hyper-v' in t or 'proxmox' in t or 'virtualization' in t: return ["Server Setup", "Monitoring", "Maintenance", "Security"]
+    if 'emergency' in t or 'urgent' in t or 'critical' in t or 'downtime' in t: return ["Fast Response", "Priority Service", "Expert Diagnosis", "Business Recovery"]
+    if 'endpoint' in t or 'patch' in t or 'compliance' in t or 'siem' in t or 'monitoring' in t: return ["24/7 Monitoring", "Threat Detection", "Compliance Ready", "Proactive Support"]
     if 'business' in t or 'managed' in t or 'helpdesk' in t or 'consulting' in t or 'office' in t: return ["Managed IT Services", "IT Support", "Cloud Solutions", "IT Consulting"]
     if 'phone' in t or 'tablet' in t or 'iphone' in t or 'android' in t: return ["Screen Repair", "Battery Replace", "Charging Port Fix", "Data Recovery"]
     if 'website' in t or 'seo' in t or 'design' in t or 'wordpress' in t: return ["Custom Design", "SEO Friendly", "Mobile Responsive", "Fast & Secure"]
